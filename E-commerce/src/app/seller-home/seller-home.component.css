@@ -1,0 +1,14 @@
+table{
+  
+    color:blueviolet;
+    border-collapse: collapse;
+}
+table td,table th{
+    border: 2px solid burlywood;
+   padding :10px;
+    /*    min-width: 130px; */
+}
+img{
+    height:140px;
+    width:160px;
+}

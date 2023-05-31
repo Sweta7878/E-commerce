@@ -1,0 +1,22 @@
+.product-img{
+    width:100%;
+    height:230px;
+    object-fit: contain;
+
+}
+.product-color{
+    border: 3px solid black;
+    width: 40px;
+    height: 40px;
+    border-radius: 80%;
+}
+.quantity{
+    margin-top:20px;
+}
+.quantity button{
+    padding:10px;
+}
+.quantity input{
+    width:50px;
+    padding:10px;
+}

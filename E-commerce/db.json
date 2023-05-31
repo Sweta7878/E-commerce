@@ -1,0 +1,143 @@
+{
+  "sellers": [
+    {
+      "name": "nikhil",
+      "password": "nikhil@1234",
+      "email": "nikhil@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "swetapanchal",
+      "password": "sweta@2001",
+      "email": "swetapanchal787898@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "nikhil",
+      "password": "nikhil#",
+      "email": "nikhilpanchal787898@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "harsh",
+      "password": "harsh@",
+      "email": "harsh@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "s123",
+      "password": "s123",
+      "email": "nikhil@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "nikhil",
+      "password": "n2",
+      "email": "nikhil@gmail.com",
+      "id": 9
+    }
+  ],
+  "product": [
+    {
+      "name": "laptop1",
+      "color": "black",
+      "price": "40000",
+      "description": "best ",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX522_.jpg",
+      "id": 5
+    },
+    {
+      "name": "phone1",
+      "color": "black",
+      "price": "20000",
+      "description": "phone",
+      "category": "electronics",
+      "image": "data:image/jpeg;base64,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",
+      "id": 6
+    },
+    {
+      "name": "phone2",
+      "color": "black",
+      "price": "10000",
+      "description": "asasdfg",
+      "category": "electronics",
+      "image": "https://images.pexels.com/photos/4565780/pexels-photo-4565780.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": 7
+    },
+    {
+      "name": "laptop2",
+      "color": "black",
+      "price": "20000",
+      "description": "asdf",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX522_.jpg",
+      "id": 8
+    },
+    {
+      "name": "laptop3",
+      "color": "black",
+      "price": "10000",
+      "description": "asdfg",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX522_.jpg",
+      "id": 9
+    },
+    {
+      "name": "laptop4",
+      "color": "blue",
+      "price": "10000",
+      "description": "ERWEILIEESTDYUIUYTRTRYUDKIUJYT",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX522_.jpg",
+      "id": 10
+    },
+    {
+      "name": "earfon",
+      "color": "pink",
+      "price": "10000",
+      "description": ".,lkjbhgf",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61xftZKXvwL._SL1500_.jpg",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "nikhil",
+      "password": "123",
+      "email": "nikhil@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "sweta",
+      "password": "s12",
+      "email": "swetapanchal787898@gmail.com",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "name": "laptop1",
+      "color": "black",
+      "price": "40000",
+      "description": "best ",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX522_.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "email": "nikhil@gmail.com",
+      "contact": "1`23456789",
+      "address": "agfhjgfhfdfghjhg",
+      "totalPrice": 150100,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
